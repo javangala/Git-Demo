@@ -15,6 +15,11 @@ public class Amnm {
 		System.out.println(s1.equals(s3));
 		System.out.println(s2==s3);
 		System.out.println(s3.equals(s2));
+		
+		System.out.println("aotomation");
+		System.out.println("aotomation");
+		System.out.println("aotomation");
+
 
 
 	}
