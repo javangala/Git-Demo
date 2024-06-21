@@ -31,9 +31,7 @@ public class CommonCharsVerifier {
 }
 
 
-
 /*
- * 
  * public class CommonCharsVerifier {
 
     public static void main(String[] args) {
