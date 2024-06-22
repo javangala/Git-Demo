@@ -19,5 +19,3 @@ public class Ruff__ {
 		
 	}
 }
-
-
