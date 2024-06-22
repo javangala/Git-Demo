@@ -11,6 +11,8 @@ public class Ruff_6 {
 		
 
 		System.out.println(Uppercase(s));
+		System.out.println(Lowercase(s));
+
 	}
 	
 	public static String Uppercase(String s) {
@@ -18,6 +20,13 @@ public class Ruff_6 {
 		String temp=s.toUpperCase();
 		
 		return temp;
+	}
+	
+	public static String Lowercase(String s) {
+		
+		String temp=s.toLowerCase();
+		return temp;
+		
 	}
 
 }
